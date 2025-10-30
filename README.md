@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Blockchain Developer | Smart Contracts | Web3 | DeFi Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&center=true&vCenter=true&lines= Building+the+Future+of+Finance+on+Chain;Smart+Contracts,+Smarter+Systems;Engineering+Trust+Through+Code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&center=true&vCenter=true&lines=Building+the+Future+of+Finance+on+Chain;Smart+Contracts,+Smarter+Systems;Engineering+Trust+Through+Code" alt="Typing SVG">
 </p>
 
 ---
